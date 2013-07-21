@@ -1,7 +1,7 @@
 {
   "name": "Maximize tinychat",
   "description": "Maximizes tinychat inside its containing tab",
-  "launch_path": "/resources/addon-sdk/lib/sdk/",
+  "launch_path": "/insylogo/maximizetinychatff/raw/master/resources/addon-sdk/lib/sdk/",
   "icons": {
     "128": "/img/128.png"
   },
